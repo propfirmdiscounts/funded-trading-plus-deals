@@ -107,4 +107,4 @@ This repository tracks all historical deals for **Funded Trading Plus** publishe
 
 ---
 
-Last synced: 2026-10-29T02:42:36Z (auto, hourly)
+Last synced: 2026-10-29T06:31:59Z (auto, hourly)
