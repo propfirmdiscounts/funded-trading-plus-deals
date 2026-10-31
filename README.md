@@ -1,31 +1,53 @@
-# Funded Trading Plus - Discount Codes & Deal History
+# Funded Trading Plus Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-14, the verified Funded Trading Plus discount code is **PFD** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/funded-trading-plus/
+> The Most Trusted Prop Firm in the Industry Since 2021
+> With 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we’re committed to supporting you at every stage.
+> We offer industry leading prop trading education as well as simulated funding challenges. From our 1-Step Express and 2-Step Classic challenges to Instant Funding with payouts from day one. All accounts are swap-free, news trading is allowed, and designed to help you grow and succeed!
+> Get started on your funding here:
+> https://www.fundedtradingplus.com/
+> For any questions or concerns, please send us an email at Info@fundedtradingplus.com or reach our to our CEO directly at
+> simon@fundedtradingplus.com
+>
+> — Funded Trading Plus, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundedtradingplus.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-14
+- Trustpilot: 4/5 (2669 reviews)
+- Activate: https://propfirmdiscount.com/go/fundedtradingplus
+- Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **10% off** on Funded Trading Plus challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Funded Trading Plus evaluation accounts.
+## Current Funded Trading Plus deal: 35% Off All Evaluation Programs Flash Sale
+
+- Published: 2026-10-14
+- Offer ends: 2026-10-16 (ended)
+- Offer: 35% off
+- Scope: 1-Step Express, 2-Step Classic, Instant Funding, Excludes Pnpl
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/
+
+## Funded Trading Plus discount code FAQ
+
+**What is the Funded Trading Plus discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 10% off Funded Trading Plus challenges and accounts.
+
+**Does the Funded Trading Plus discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Funded Trading Plus deal?**
+
+**35% Off All Evaluation Programs Flash Sale** — published 2026-10-14. Offer ends: 2026-10-16 (ended). The offer is 35% off.
 
 ---
 
-## Latest Deal
-
-### Funded Trading Plus - 35% Off All Evaluation Programs Flash Sale
-
-**Published:** 2026-10-14  
-**Offer ends:** 2026-10-16 (ended)  
-**Discount:** 35% off  
-**Scope:** 1-Step Express, 2-Step Classic, Instant Funding, Excludes Pnpl  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **57**
 
@@ -98,19 +120,20 @@ Total deals tracked: **57**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Funded Trading Plus** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Funded Trading Plus** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/funded-trading-plus/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
