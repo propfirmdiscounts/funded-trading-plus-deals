@@ -21,16 +21,6 @@ tags:
 
 As of 2026-10-14, the verified Funded Trading Plus discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-> The Most Trusted Prop Firm in the Industry Since 2021
-> With 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we’re committed to supporting you at every stage.
-> We offer industry leading prop trading education as well as simulated funding challenges. From our 1-Step Express and 2-Step Classic challenges to Instant Funding with payouts from day one. All accounts are swap-free, news trading is allowed, and designed to help you grow and succeed!
-> Get started on your funding here:
-> https://www.fundedtradingplus.com/
-> For any questions or concerns, please send us an email at Info@fundedtradingplus.com or reach our to our CEO directly at
-> simon@fundedtradingplus.com
->
-> — Funded Trading Plus, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundedtradingplus.com)
-
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
