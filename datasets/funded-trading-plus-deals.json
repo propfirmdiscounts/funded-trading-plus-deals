@@ -1,5 +1,45 @@
 [
   {
+    "deal_id": 13112,
+    "title": "$4 activation account in November",
+    "offer_type": "deal",
+    "discount_value": "Only $4",
+    "scope": [
+      "Activation Accounts, $25K To $100K, On Mt5 Or Match-Trader"
+    ],
+    "date_published": "2026-11-02",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-02",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/",
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/"
+  },
+  {
+    "deal_id": 13096,
+    "title": "45% off Instant Funding programs",
+    "offer_type": "coupon",
+    "discount_value": "45%",
+    "scope": [
+      "Instant Funding Programs"
+    ],
+    "date_published": "2026-11-02",
+    "date_exp": "2026-11-03",
+    "event": "Halloween",
+    "last_verified": "2026-11-02",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/",
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/"
+  },
+  {
     "deal_id": 12893,
     "title": "35% Off All Evaluation Programs Flash Sale",
     "offer_type": "coupon",
