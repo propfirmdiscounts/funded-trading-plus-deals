@@ -1,6 +1,6 @@
 # Funded Trading Plus - Discount Codes & Deal History
 
-As of 2026-11-02, the verified Funded Trading Plus discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-04, the verified Funded Trading Plus discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > The Most Trusted Prop Firm in the Industry Since 2021
 > With 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we’re committed to supporting you at every stage.
@@ -15,21 +15,21 @@ As of 2026-11-02, the verified Funded Trading Plus discount code is PFD — up t
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-02
+- Last deal published: 2026-11-04
 - Trustpilot: 4/5 (2668 reviews)
 - Activate: https://propfirmdiscount.com/go/fundedtradingplus
 - Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Funded Trading Plus deal: $4 activation account in November
+## Current Funded Trading Plus deal: 35% Off All Accounts - Ends 9 November
 
-- Published: 2026-11-02
-- Offer ends: Limited time
-- Offer: Only $4
-- Scope: Activation Accounts, $25K To $100K, On Mt5 Or Match-Trader
+- Published: 2026-11-04
+- Offer ends: 2026-11-09
+- Offer: 35% off
+- Scope: All Accounts, Instant Funding, Challenge Accounts, All Account Sizes
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/
+- Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/
 
 ## Funded Trading Plus discount code FAQ
 
@@ -43,18 +43,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funded Trading Plus deal?**
 
-**$4 activation account in November** — published 2026-11-02. Offer ends: Limited time. The offer is Only $4.
+**35% Off All Accounts - Ends 9 November** — published 2026-11-04. Offer ends: 2026-11-09. The offer is 35% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **59**
+Total deals tracked: **60**
 
-### 2026 (40 deals)
+### 2026 (41 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-04 | 35% Off All Accounts - Ends 9 November | 35% off | 2026-11-09 | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/) |
 | 2026-11-02 | $4 activation account in November | Only $4 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/) |
 | 2026-11-02 | 45% off Instant Funding programs | 45% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/) |
 | 2026-10-14 | 35% Off All Evaluation Programs Flash Sale | 35% off | 2026-10-16 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/) |

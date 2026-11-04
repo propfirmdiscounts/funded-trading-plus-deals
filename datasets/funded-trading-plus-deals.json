@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13146,
+    "title": "35% Off All Accounts - Ends 9 November",
+    "offer_type": "coupon",
+    "discount_value": "35%",
+    "scope": [
+      "All Accounts, Instant Funding, Challenge Accounts, All Account Sizes"
+    ],
+    "date_published": "2026-11-04",
+    "date_exp": "2026-11-09",
+    "event": null,
+    "last_verified": "2026-11-04",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/",
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/"
+  },
+  {
     "deal_id": 13112,
     "title": "$4 activation account in November",
     "offer_type": "deal",
