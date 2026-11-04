@@ -75,7 +75,7 @@ Total deals tracked: **59**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-11-02 | $4 activation account in November | Only $4 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-4-dollar-activation-account/) |
-| 2026-11-02 | 45% off Instant Funding programs | 45% off | 2026-11-03 | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/) |
+| 2026-11-02 | 45% off Instant Funding programs | 45% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-45-off-instant-funding/) |
 | 2026-10-14 | 35% Off All Evaluation Programs Flash Sale | 35% off | 2026-10-16 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-programs/) |
 | 2026-09-28 | 20% Off Evaluation Fee & Increased Drawdown Limit | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-2-step-drawdown-discount/) |
 | 2026-09-28 | 20% Off Challenge Pricing & Enhanced Payout Share | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-1-step-discount-profit-split/) |
