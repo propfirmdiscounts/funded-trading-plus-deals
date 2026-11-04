@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: fundedtradingplus
   FIRM_SLUG: funded-trading-plus
   DEALSTORE_ID: 32
   FIRM_NAME: Funded Trading Plus
