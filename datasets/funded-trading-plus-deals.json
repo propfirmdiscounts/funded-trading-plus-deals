@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13229,
+    "title": "25% Off Plus Free Add-On",
+    "offer_type": "coupon",
+    "discount_value": "25%",
+    "scope": [
+      "Instant Funding, 1 Step Express"
+    ],
+    "date_published": "2026-11-13",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-13",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/",
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "standing_code": "PFD",
+    "standing_discount": "20%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/"
+  },
+  {
     "deal_id": 13146,
     "title": "35% Off All Accounts - Ends 9 November",
     "offer_type": "coupon",
