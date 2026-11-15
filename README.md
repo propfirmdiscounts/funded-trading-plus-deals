@@ -16,11 +16,12 @@ As of 2026-11, the verified Funded Trading Plus discount code is PFD — 20% OFF
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-13
-- Trustpilot: 4/5 (2671 reviews)
-- Activate: https://propfirmdiscount.com/go/fundedtradingplus
-- Firm page: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [4/5 (2671 reviews)](https://www.trustpilot.com/review/fundedtradingplus.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/funded-trading-plus-deals](https://github.com/propfirmdiscounts/funded-trading-plus-deals)
+- Activate: [https://propfirmdiscount.com/go/fundedtradingplus](https://propfirmdiscount.com/go/fundedtradingplus)
+- Firm page: [https://propfirmdiscount.com/prop-firm/funded-trading-plus/](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Funded Trading Plus deal: 25% Off Plus Free Add-On
 
@@ -29,7 +30,7 @@ As of 2026-11, the verified Funded Trading Plus discount code is PFD — 20% OFF
 - Offer: 25% off
 - Scope: Instant Funding, 1 Step Express
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/
+- Deal page: [https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/)
 
 ## Funded Trading Plus discount code FAQ
 
@@ -128,9 +129,9 @@ Total deals tracked: **61**
 
 This repository mirrors every deal **Funded Trading Plus** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/funded-trading-plus/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/funded-trading-plus/](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/funded-trading-plus-deals.json`
 
