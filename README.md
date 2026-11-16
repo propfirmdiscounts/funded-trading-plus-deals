@@ -1,6 +1,6 @@
 # Funded Trading Plus - Discount Codes & Deal History
 
-As of 2026-11, the verified Funded Trading Plus discount code is PFD — 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Funded Trading Plus discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 > The Most Trusted Prop Firm in the Industry Since 2021
 > With 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we’re committed to supporting you at every stage.
