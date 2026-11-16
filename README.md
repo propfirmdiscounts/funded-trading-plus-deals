@@ -1,6 +1,6 @@
 # Funded Trading Plus - Discount Codes & Deal History
 
-As of November 2026, the verified Funded Trading Plus discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Funded Trading Plus discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "25% Off Plus Free Add-On".
 
 > The Most Trusted Prop Firm in the Industry Since 2021
 > With 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we’re committed to supporting you at every stage.
@@ -17,11 +17,11 @@ As of November 2026, the verified Funded Trading Plus discount code is PFD — 2
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-13
 - Trustpilot: [4/5 (2671 reviews)](https://www.trustpilot.com/review/fundedtradingplus.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/funded-trading-plus-deals](https://github.com/propfirmdiscounts/funded-trading-plus-deals)
-- Activate: [https://propfirmdiscount.com/go/fundedtradingplus](https://propfirmdiscount.com/go/fundedtradingplus)
-- Firm page: [https://propfirmdiscount.com/prop-firm/funded-trading-plus/](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Funded Trading Plus Deals Repository](https://github.com/propfirmdiscounts/funded-trading-plus-deals)
+- Activate: [Activate Funded Trading Plus Discount Code](https://propfirmdiscount.com/go/fundedtradingplus)
+- Firm page: [Funded Trading Plus Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Funded Trading Plus API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Funded Trading Plus deal: 25% Off Plus Free Add-On
 
@@ -30,7 +30,7 @@ As of November 2026, the verified Funded Trading Plus discount code is PFD — 2
 - Offer: 25% off
 - Scope: Instant Funding, 1 Step Express
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/)
+- Deal page: [Funded Trading Plus Deal Page](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/)
 
 ## Funded Trading Plus discount code FAQ
 
@@ -129,9 +129,9 @@ Total deals tracked: **61**
 
 This repository mirrors every deal **Funded Trading Plus** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/funded-trading-plus/](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Funded Trading Plus Profile](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/funded-trading-plus-deals.json`
 
@@ -174,4 +174,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
