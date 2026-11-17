@@ -1,4 +1,4 @@
-# Funded Trading Plus Discount Codes
+# Funded Trading Plus Discount Code & Deals History
 
 This dataset tracks historical deal observations for Funded Trading Plus from PropFirmDiscount.com.
 

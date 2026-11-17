@@ -1,4 +1,4 @@
-# Funded Trading Plus Discount Code & Deal History
+# Funded Trading Plus Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Funded Trading Plus discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "25% Off Plus Free Add-On".
 
@@ -17,7 +17,7 @@ As of November 2026, the verified Funded Trading Plus discount code is PFD — 2
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-13
 - Trustpilot: [4/5 (2671 reviews)](https://www.trustpilot.com/review/fundedtradingplus.com)
-- GitHub repository: [Funded Trading Plus Deals Repository](https://github.com/propfirmdiscounts/funded-trading-plus-deals)
+- GitHub repository: [Funded Trading Plus Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/funded-trading-plus-deals)
 - Activate: [Activate Funded Trading Plus Discount Code](https://propfirmdiscount.com/go/fundedtradingplus)
 - Firm page: [Funded Trading Plus Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -32,7 +32,7 @@ As of November 2026, the verified Funded Trading Plus discount code is PFD — 2
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Funded Trading Plus Deal Page](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/)
 
-## Funded Trading Plus Discount Code & Deals FAQ
+## Funded Trading Plus Discount Code & Deals History FAQ
 
 **What is the Funded Trading Plus discount code?**
 
@@ -48,7 +48,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Funded Trading Plus Deal History
+## Funded Trading Plus Deals History
 
 Total deals tracked: **61**
 
@@ -125,7 +125,7 @@ Total deals tracked: **61**
 
 ---
 
-## About the Funded Trading Plus Deals Dataset
+## About the Funded Trading Plus Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Funded Trading Plus** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -133,7 +133,7 @@ This repository mirrors every deal **Funded Trading Plus** has published on Prop
 - Prop firm profile: [Funded Trading Plus Profile](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Funded Trading Plus Deal Dataset: Field Definitions
+## Funded Trading Plus Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
