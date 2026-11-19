@@ -1,6 +1,6 @@
 # Funded Trading Plus Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Funded Trading Plus discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "Flash Sale: 32.5% Off".
+As of November 2026, the verified Funded Trading Plus discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "Flash Sale Extended: 32.5% Off".
 
 > The Most Trusted Prop Firm in the Industry Since 2021
 > With 60,000+ traders, $19.5M+ paid out, and traders in 180+ countries, we’re committed to supporting you at every stage.
@@ -23,14 +23,14 @@ As of November 2026, the verified Funded Trading Plus discount code is PFD — 2
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Funded Trading Plus API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Funded Trading Plus deal: Flash Sale: 32.5% Off
+## Latest Funded Trading Plus deal: Flash Sale Extended: 32.5% Off
 
-- Published: 2026-11-18
-- Offer ends: Limited time
+- Published: 2026-11-19
+- Offer ends: 2026-11-20
 - Offer: 32.5% off
-- Scope: All Accounts (Excl. Activation Accounts)
+- Scope: All Accounts (Excluding Activation Accounts)
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Funded Trading Plus Deal Page](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/)
+- Deal page: [Funded Trading Plus Deal Page](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-extended-32-5-off/)
 
 ## Funded Trading Plus Discount Code & Deals History FAQ
 
@@ -44,18 +44,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funded Trading Plus deal?**
 
-**Flash Sale: 32.5% Off** — published 2026-11-18. Offer ends: Limited time. The offer is 32.5% off.
+**Flash Sale Extended: 32.5% Off** — published 2026-11-19. Offer ends: 2026-11-20. The offer is 32.5% off.
 
 ---
 
 ## Funded Trading Plus Deals History
 
-Total deals tracked: **62**
+Total deals tracked: **63**
 
-### 2026 (43 deals)
+### 2026 (44 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-19 | Funded Trading Plus: Flash Sale Extended: 32.5% Off | 32.5% off | 2026-11-20 | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-extended-32-5-off/) |
 | 2026-11-18 | Funded Trading Plus: Flash Sale: 32.5% Off | 32.5% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-32-5-off/) |
 | 2026-11-13 | Funded Trading Plus: 25% Off Plus Free Add-On | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-25-off-free-profit-split-addon/) |
 | 2026-11-04 | Funded Trading Plus: 35% Off All Accounts - Ends 9 November | 35% off | 2026-11-09 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-35-off-all-accounts/) |

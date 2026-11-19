@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13286,
+    "title": "Flash Sale Extended: 32.5% Off",
+    "offer_type": "coupon",
+    "discount_value": "32.5%",
+    "scope": [
+      "All Accounts (Excluding Activation Accounts)"
+    ],
+    "date_published": "2026-11-19",
+    "date_exp": "2026-11-20",
+    "event": null,
+    "last_verified": "2026-11-19",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-flash-sale-extended-32-5-off/",
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "standing_code": "PFD",
+    "standing_discount": "20%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/"
+  },
+  {
     "deal_id": 13278,
     "title": "Flash Sale: 32.5% Off",
     "offer_type": "coupon",
