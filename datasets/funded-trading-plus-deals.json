@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13310,
+    "title": "35% Off $25K-$50K Accounts",
+    "offer_type": "coupon",
+    "discount_value": "35%",
+    "scope": [
+      "Accounts Of $25K-$50K"
+    ],
+    "date_published": "2026-11-21",
+    "date_exp": "Limited time",
+    "event": "Black Friday",
+    "last_verified": "2026-11-21",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/",
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "standing_code": "PFD",
+    "standing_discount": "20%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/"
+  },
+  {
     "deal_id": 13309,
     "title": "37.5% Off $5K-$10K Accounts",
     "offer_type": "coupon",
