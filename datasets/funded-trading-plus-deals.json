@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13464,
+    "title": "40% Off Every Instant Funding Size",
+    "offer_type": "coupon",
+    "discount_value": "40%",
+    "scope": [
+      "Instant Funding Accounts, All Sizes"
+    ],
+    "date_published": "2026-11-24",
+    "date_exp": "2026-11-25",
+    "event": "Black Friday",
+    "last_verified": "2026-11-24",
+    "post_url": "https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/",
+    "prop_firm": "Funded Trading Plus",
+    "prop_firm_slug": "funded-trading-plus",
+    "standing_code": "PFD",
+    "standing_discount": "20%",
+    "activation_link": "https://propfirmdiscount.com/go/fundedtradingplus",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funded-trading-plus/"
+  },
+  {
     "deal_id": 13311,
     "title": "35% Off $25K-$50K Accounts",
     "offer_type": "coupon",
