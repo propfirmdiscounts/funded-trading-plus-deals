@@ -16,7 +16,7 @@ As of November 2026, the verified Funded Trading Plus discount code is PFD — 2
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-22
-- Trustpilot: [4/5 (2673 reviews)](https://www.trustpilot.com/review/fundedtradingplus.com)
+- Trustpilot: [4/5 (2674 reviews)](https://www.trustpilot.com/review/fundedtradingplus.com)
 - GitHub repository: [Funded Trading Plus Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/funded-trading-plus-deals)
 - Activate: [Activate Funded Trading Plus Discount Code](https://propfirmdiscount.com/go/fundedtradingplus)
 - Firm page: [Funded Trading Plus Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funded-trading-plus/)
