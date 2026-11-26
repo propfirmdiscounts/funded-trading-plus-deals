@@ -26,7 +26,7 @@ As of November 2026, the verified Funded Trading Plus discount code is PFD — 2
 ## Latest Funded Trading Plus deal: 40% Off Every Instant Funding Size
 
 - Published: 2026-11-24
-- Offer ends: 2026-11-25
+- Offer ends: 2026-11-25 (ended)
 - Offer: 40% off
 - Event: Black Friday
 - Scope: Instant Funding Accounts, All Sizes
@@ -45,7 +45,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funded Trading Plus deal?**
 
-**40% Off Every Instant Funding Size** — published 2026-11-24. Offer ends: 2026-11-25. The offer is 40% off.
+**40% Off Every Instant Funding Size** — published 2026-11-24. Offer ends: 2026-11-25 (ended). The offer is 40% off.
 
 ---
 
@@ -57,7 +57,7 @@ Total deals tracked: **67**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-24 | Funded Trading Plus: 40% Off Every Instant Funding Size | 40% off | 2026-11-25 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/) |
+| 2026-11-24 | Funded Trading Plus: 40% Off Every Instant Funding Size | 40% off | 2026-11-25 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-40-off-instant-funding/) |
 | 2026-11-22 | Funded Trading Plus: 35% Off $25K-$50K Accounts | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k-2/) |
 | 2026-11-21 | Funded Trading Plus: 35% Off $25K-$50K Accounts | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-35-off-25k-50k/) |
 | 2026-11-20 | Funded Trading Plus: 37.5% Off $5K-$10K Accounts | 37.5% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/funded-trading-plus/funded-trading-plus-black-friday-37-5-off-5k-10k/) |
